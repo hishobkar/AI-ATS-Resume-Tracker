@@ -1,0 +1,9 @@
+﻿bin/
+obj/
+publish/
+publish-*/
+uploads/
+*.user
+*.db
+.DS_Store
+.
